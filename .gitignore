@@ -1,1 +1,3 @@
 /*.mvn
+/eureka-producer/.mvn
+.mvn
