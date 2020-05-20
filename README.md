@@ -2,8 +2,8 @@
 Spring Cloud学习源码：
 
 - (教程二) 服务注册与发现 Eureka：[eureka-server](https://github.com/826643679/Spring-Cloud-Learning/tree/master/eureka-server)
-- (教程三) 服务提供与调用 Eureka：[eureka-server](https://github.com/826643679/Spring-Cloud-Learning/tree/master/eureka-producer)
-- (教程三) 服务提供与调用 Eureka：[eureka-server](https://github.com/826643679/Spring-Cloud-Learning/tree/master/eureka-consumer-feign)
+- (教程三) 服务提供与调用 Eureka：[eureka-producer](https://github.com/826643679/Spring-Cloud-Learning/tree/master/eureka-producer)
+- (教程三) 服务提供与调用 Eureka：[eureka-consumer-feign](https://github.com/826643679/Spring-Cloud-Learning/tree/master/eureka-consumer-feign)
 
 Spring Cloud 参考文章：
 
