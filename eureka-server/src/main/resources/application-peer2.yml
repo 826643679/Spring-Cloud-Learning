@@ -7,7 +7,5 @@ eureka:
   instance:
     hostname: peer2
   client:
-    register-with-eureka: true
-    fetch-registry: true
     service-url:
-      defaultZone: http://peer1:7001/eureka/
+      defaultZone: http://peer1:7001/eureka/,http://peer3:7003/eureka/
