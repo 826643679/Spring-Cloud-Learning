@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971b3680-86ba-4734-9d4e-b3e0895cd72c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luhao/EurekaConsumerFeignApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luhao/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luhao/feign/HelloRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/src/main/java/com/luhao/EurekaProducerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/src/main/java/com/luhao/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-producer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application-peer3.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/java/com/example/eurekaserver/EurekaServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application-peer1.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application-peer1.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application-peer2.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application-peer2.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/src/test/java/com/example/eurekaserver/EurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-producer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-producer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw.cmd" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589692354724</updated>
       <workItem from="1589692360123" duration="8000" />
-      <workItem from="1589966031528" duration="3014000" />
+      <workItem from="1589966031528" duration="3832000" />
     </task>
     <servers />
   </component>
