@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971b3680-86ba-4734-9d4e-b3e0895cd72c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../eureka-producer/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-producer/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw.cmd" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign-hystrix/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign-hystrix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign-hystrix/src/main/java/com/luhao/EurekaConsumerFeignHystrixApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign-hystrix/src/main/java/com/luhao/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign-hystrix/src/main/java/com/luhao/feign/HelloRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign-hystrix/src/main/java/com/luhao/feign/HelloRemoteHystrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-consumer-feign-hystrix/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589692354724</updated>
       <workItem from="1589692360123" duration="8000" />
-      <workItem from="1589966031528" duration="3832000" />
+      <workItem from="1589966031528" duration="3837000" />
+      <workItem from="1589978972159" duration="216000" />
     </task>
     <servers />
   </component>
@@ -100,21 +106,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="373" key="GridCell.Tab.0.bottom" timestamp="1589974635982">
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom" timestamp="1589978851295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589974635982" />
-    <state width="1877" height="373" key="GridCell.Tab.0.center" timestamp="1589974635982">
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589978851295" />
+    <state width="1877" height="373" key="GridCell.Tab.0.center" timestamp="1589978851295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589974635982" />
-    <state width="1877" height="373" key="GridCell.Tab.0.left" timestamp="1589974635981">
+    <state width="1877" height="373" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589978851295" />
+    <state width="1877" height="373" key="GridCell.Tab.0.left" timestamp="1589978851295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589974635981" />
-    <state width="1877" height="373" key="GridCell.Tab.0.right" timestamp="1589974635982">
+    <state width="1877" height="373" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589978851295" />
+    <state width="1877" height="373" key="GridCell.Tab.0.right" timestamp="1589978851295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="373" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589974635982" />
+    <state width="1877" height="373" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589978851295" />
   </component>
 </project>

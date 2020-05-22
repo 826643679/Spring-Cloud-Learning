@@ -1,3 +1,4 @@
 /*.mvn
 /eureka-producer/.mvn
 .mvn
+/hystrix-dashboard/.idea
